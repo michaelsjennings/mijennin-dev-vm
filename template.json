@@ -276,7 +276,7 @@
                         "value": "eastus2"
                     },
                     "fileUris": {
-                        "value": "https://iaasv2tempstoreeastus.blob.core.windows.net/vmextensionstemporary-1003bffda90dba34-20191224160553678/mijennin-dev-vm.ps1?sv=2017-04-17&sr=c&sig=IL3Am9XYQw03Cg8FIS2WLbwRk5s2TysVeTOP8APHiMk%3D&se=2019-12-25T16%3A05%3A53Z&sp=rw"
+                        "value": "https://raw.githubusercontent.com/michaelsjennings/mijennin-dev-vm/master/customScript.ps1"
                     }
                 }
             },
